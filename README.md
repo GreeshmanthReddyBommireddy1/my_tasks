@@ -2,13 +2,15 @@
 
 A simple and responsive task management application built using React.js. Users can create tasks with different tags and filter tasks based on selected categories.
 
-
-
 ## 📂 GitHub Repository
 
 [GitHub Repository](https://github.com/GreeshmanthReddyBommireddy1/my_tasks)
 
 ---
+
+## View
+<img width="1889" height="927" alt="image" src="https://github.com/user-attachments/assets/e17e0c8f-3694-414c-b8e4-57c18e38aaed" />
+
 
 ## 📌 Features
 
